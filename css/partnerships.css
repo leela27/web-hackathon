@@ -1,0 +1,36 @@
+header{
+    background-color:red;
+    height: 50px;
+    width: 1600px;
+    top:0px;
+    position: fixed;
+    text-transform: capitalize;
+    padding-bottom: 20px;
+    display: inline;
+}
+#nav{
+    display: inline;
+}
+/* Style the container/contact section */
+.container {
+    border-radius: 5px;
+    background-color: blue;
+    padding: 10px;
+    text-align: center;
+  }
+  .r1-container{
+      text-align: center;
+      
+  }
+
+
+#cover
+{
+    background: #222 url("../img/herobg.jpg") center center no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
